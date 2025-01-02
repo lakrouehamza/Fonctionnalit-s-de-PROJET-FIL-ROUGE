@@ -49,9 +49,12 @@ Algorithme de recherche avancée pour filtrer rapidement les annonces selon plus
 Authentification sécurisée pour tous les utilisateurs.
 Protection des données des utilisateurs et gestion des droits d’accès.
 Technologies utilisées :
-# Backend : PHP (Framework Laravel ou natif), gestion des images avec GD ou Imagick.
-# Base de données : MySQL pour stocker les données des utilisateurs, annonces, et interactions.
-# Frontend : HTML, CSS, JavaScript .
+# Backend :
+PHP (Framework Laravel ou natif), gestion des images avec GD ou Imagick.
+# Base de données : 
+MySQL pour stocker les données des utilisateurs, annonces, et interactions.
+# Frontend :
+HTML, CSS, JavaScript .
 # Autres outils :
 Trello ou Jira pour le suivi du projet.
 Git pour le contrôle de version.
